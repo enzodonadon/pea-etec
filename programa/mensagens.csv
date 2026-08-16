@@ -1,0 +1,5 @@
+arquivo,mensagem
+backup_offline.log,Backup successful
+backup_online.log,Backup successful
+move_archivelog.log,ECHO is off
+rotate_db2diag.log,ECHO is off

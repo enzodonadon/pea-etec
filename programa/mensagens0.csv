@@ -1,0 +1,13 @@
+arquivo,mensagem
+backup_offline.log,Backup successful
+backup_online.log,Backup successful
+update_statistics.log,Updating
+update_statistics.log,update is not necessary
+update_statistics.log,did not require update
+update_statistics.log,have been updated
+update_statistics.log,has been updated
+UpdateStatisticsDESENVOLVIMENTO.log,Updating
+UpdateStatisticsDESENVOLVIMENTO.log,update is not necessary
+UpdateStatisticsDESENVOLVIMENTO.log,did not require update
+UpdateStatisticsDESENVOLVIMENTO.log,has been updated
+UpdateStatisticsDESENVOLVIMENTO.log,have been updated
